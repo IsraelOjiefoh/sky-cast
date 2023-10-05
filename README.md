@@ -1,1 +1,1 @@
-demo: https://sky-cast.netlify.app
+demo: https://sky-forecast.netlify.app
